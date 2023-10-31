@@ -9,7 +9,7 @@ samtools
 bedtools
 ```
 
-1. perform a quality check on the paired-end raw sequence data (which are in gzip compressed fastq format; https://support.illumina.com/bulletins/2016/04/fastq-filesexplained.html) using the programme fastqc.
+1. perform a quality check on the paired-end raw sequence data (which are in gzip compressed fastq format; https://support.illumina.com/bulletins/2016/04/fastq-files-explained.html) using the programme fastqc.
    
 2. assess the numbers and quality of the raw sequence data based on the output of fastqc.
 
